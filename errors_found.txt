@@ -1,0 +1,8 @@
+Solved Bugs :
+
+1. Parameters passed are not correct (line - 5)
+2. Chnaged method of encrypting message (line - 27,38)
+3. Wrong method used (line - 52,60)
+4. Getting false value in padded message (line - 30)
+
+Git link : 
